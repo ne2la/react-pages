@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-pages/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-pages/static/js/main.12fdcdd6.chunk.js",
-    "main.js.map": "/react-pages/static/js/main.12fdcdd6.chunk.js.map",
-    "runtime-main.js": "/react-pages/static/js/runtime-main.02ccde99.js",
-    "runtime-main.js.map": "/react-pages/static/js/runtime-main.02ccde99.js.map",
-    "static/js/2.88f288f4.chunk.js": "/react-pages/static/js/2.88f288f4.chunk.js",
-    "static/js/2.88f288f4.chunk.js.map": "/react-pages/static/js/2.88f288f4.chunk.js.map",
-    "static/js/3.2507ac0c.chunk.js": "/react-pages/static/js/3.2507ac0c.chunk.js",
-    "static/js/3.2507ac0c.chunk.js.map": "/react-pages/static/js/3.2507ac0c.chunk.js.map",
+    "main.js": "/react-pages/static/js/main.453b4104.chunk.js",
+    "main.js.map": "/react-pages/static/js/main.453b4104.chunk.js.map",
+    "runtime-main.js": "/react-pages/static/js/runtime-main.845a96b0.js",
+    "runtime-main.js.map": "/react-pages/static/js/runtime-main.845a96b0.js.map",
+    "static/js/2.abf96367.chunk.js": "/react-pages/static/js/2.abf96367.chunk.js",
+    "static/js/2.abf96367.chunk.js.map": "/react-pages/static/js/2.abf96367.chunk.js.map",
+    "static/js/3.68915249.chunk.js": "/react-pages/static/js/3.68915249.chunk.js",
+    "static/js/3.68915249.chunk.js.map": "/react-pages/static/js/3.68915249.chunk.js.map",
     "index.html": "/react-pages/index.html",
     "static/css/main.a617e044.chunk.css.map": "/react-pages/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.88f288f4.chunk.js.LICENSE.txt": "/react-pages/static/js/2.88f288f4.chunk.js.LICENSE.txt"
+    "static/js/2.abf96367.chunk.js.LICENSE.txt": "/react-pages/static/js/2.abf96367.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02ccde99.js",
-    "static/js/2.88f288f4.chunk.js",
+    "static/js/runtime-main.845a96b0.js",
+    "static/js/2.abf96367.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.12fdcdd6.chunk.js"
+    "static/js/main.453b4104.chunk.js"
   ]
 }
